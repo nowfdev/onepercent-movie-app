@@ -30,7 +30,7 @@ const Banner = () => {
             Lorem ipsum dolor sit amet consectetur adipisicing elit. Soluta
             magni quas quis error accusamus rerum maiores itaque excepturi
             possimus totam consequuntur culpa omnis doloremque impedit suscipit
-            quia, aliquam nobis fugiat.
+            quia, aliquam nobis fugiat. dasd
           </p>
           <div className="flex items-center space-x-4">
             <button className="p-2 text-white bg-black font-bold text-sm uppercase">

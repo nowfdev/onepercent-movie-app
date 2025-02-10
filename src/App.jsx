@@ -2,7 +2,7 @@ import { useState, useEffect } from "react";
 import Banner from "./components/Banner";
 import Header from "./components/Header";
 import MovieList from "./components/MovieList";
-
+// Review knowledge date
 function App() {
   const [movie, setMovie] = useState([]);
   const [movieUpcomming, setMovieUpcoming] = useState([]);

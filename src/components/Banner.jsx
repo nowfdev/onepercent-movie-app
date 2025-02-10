@@ -57,5 +57,5 @@ const Banner = () => {
     </div>
   );
 };
-// Dump 7225
+
 export default Banner;

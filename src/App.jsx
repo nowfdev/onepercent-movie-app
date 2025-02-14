@@ -26,8 +26,7 @@ function App() {
         fetch(url1, options),
         fetch(url2, options),
       ]);
-      // Update 1205
-      // Update 1305
+
       const data1 = await res1.json();
       const data2 = await res2.json();
 

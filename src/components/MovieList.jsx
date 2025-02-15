@@ -58,10 +58,11 @@ const MovieList = ({ title, data }) => {
   };
 
   return (
-    <div className="text-white p-10 mb-10 ">
+    <div className="text-white p-10 mb-10">
       <h2 className="uppercase text-xl mb-4">{title}</h2>
       <Carousel responsive={responsive} className="flex items-center space-x-2">
-        {data.length > 0 &&
+        {data &&
+          data.length > 0 &&
           data.map((item) => (
             <div
               key={item.id}

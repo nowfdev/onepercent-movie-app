@@ -33,9 +33,6 @@ const Banner = () => {
             quia, aliquam nobis fugiat. dasd
           </p>
           <div className="flex items-center space-x-4">
-            <button className="p-2 text-white bg-black font-bold text-sm uppercase">
-              View Demo
-            </button>
             <button className="p-2 text-white bg-red-700 font-bold text-sm uppercase">
               Booking
             </button>

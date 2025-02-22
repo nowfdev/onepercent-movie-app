@@ -61,30 +61,5 @@ MovieList.propTypes = {
   title: PropTypes.string,
   data: PropTypes.array,
 };
-// Review Day
-// Review Day
-// Review Day
-// Review Day
-// Review Day
-// Review Day
-// Review Day
-// Review Day
-// Review Day
-// Review Day
-// Review Day
-// Review Day
-// Review Day
-// Review Day
-// Review Day
-// Review Day
-// Review Day
-// Review Day
-// Review Day
-// Review Day
-// Review Day
-// Review Day
-// Review Day
 
-// Review Day// Review Day// Review Day// Review Day
-// Review Day
 export default MovieList;

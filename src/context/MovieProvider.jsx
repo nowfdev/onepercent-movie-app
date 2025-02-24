@@ -59,6 +59,32 @@ const MovieProvider = ({ children }) => {
         contentLabel="Example Modal"
       >
         <YouTube videoId={trailerKey} opts={opts} />
+        <h1>Hello Its Nowf</h1>
+        <h2>Type of Movie</h2>
+        <p>
+          Lorem ipsum, dolor sit amet consectetur adipisicing elit. Et, corrupti
+          harum vel laborum cupiditate nulla! Asperiores veniam quibusdam ut sit
+          voluptate rerum exercitationem voluptatum. Tempore odit reprehenderit
+          nostrum officiis quos!
+        </p>
+        <p>
+          Lorem ipsum, dolor sit amet consectetur adipisicing elit. Et, corrupti
+          harum vel laborum cupiditate nulla! Asperiores veniam quibusdam ut sit
+          voluptate rerum exercitationem voluptatum. Tempore odit reprehenderit
+          nostrum officiis quos!
+        </p>
+        <p>
+          Lorem ipsum, dolor sit amet consectetur adipisicing elit. Et, corrupti
+          harum vel laborum cupiditate nulla! Asperiores veniam quibusdam ut sit
+          voluptate rerum exercitationem voluptatum. Tempore odit reprehenderit
+          nostrum officiis quos!
+        </p>
+        <p>
+          Lorem ipsum, dolor sit amet consectetur adipisicing elit. Et, corrupti
+          harum vel laborum cupiditate nulla! Asperiores veniam quibusdam ut sit
+          voluptate rerum exercitationem voluptatum. Tempore odit reprehenderit
+          nostrum officiis quos!
+        </p>
       </Modal>
     </MovieContext.Provider>
   );

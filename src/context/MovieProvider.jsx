@@ -156,6 +156,9 @@ const MovieProvider = ({ children }) => {
               <button className="px-5 py-2 text-sm font-bold text-white uppercase bg-red-700 rounded hover:bg-red-800 transition">
                 Booking
               </button>
+              <button className="px-5 py-2 text-sm font-bold text-white uppercase bg-red-700 rounded hover:bg-red-800 transition">
+                Booking
+              </button>
             </div>
           </div>
         )}

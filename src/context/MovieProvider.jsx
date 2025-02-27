@@ -4,8 +4,6 @@ import YouTube from "react-youtube";
 import Modal from "react-modal";
 
 const opts = {
-  //   height: "390",
-  //   width: "640",
   height: "100%",
   width: "100%",
   playerVars: {
@@ -170,5 +168,7 @@ const MovieProvider = ({ children }) => {
 MovieProvider.propsTypes = {
   children: PropsType.node,
 };
+
+// Review
 
 export { MovieProvider, MovieContext };

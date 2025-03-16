@@ -169,10 +169,7 @@ MovieProvider.propsTypes = {
   children: PropsType.node,
 };
 
-// Review
-// Deploy
-// Learning Date
-// Learning Date 05.03.25
 // Learning Date 13.03.25
+// Learning Date 16.03.25
 
 export { MovieProvider, MovieContext };
